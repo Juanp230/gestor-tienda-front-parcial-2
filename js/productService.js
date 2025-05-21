@@ -70,6 +70,7 @@ function products(pagina) {
             document.getElementById('info').innerHTML = 'no existen ususarios en la BD'
         }
     })
+    
 }
 
 
