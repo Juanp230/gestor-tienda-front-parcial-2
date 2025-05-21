@@ -9,17 +9,17 @@ function login(email, password) {
     let message= ''
     let alertType=''
     
-    const REQRES_ENDPOINT = 'https://reqres.in/api/login'
+    const REQRES_ENDPOINT = 'https://api.escuelajs.co/api/v1/auth/login'
     fetch(REQRES_ENDPOINT,  {
         method: 'POST',
         headers: {
-            'Content-type': 'application/json',
-            'x-api-key':'reqres-free-v1'
+            'Content-type': 'application/json'
+            
         },
         body: JSON.stringify({email,password})
     })
     .then((response) =>{
-        if (response.status ===200) {
+        if (response.status ===201) {
             alertType ='success'
             message ='inicio exitoso'
             alertBuilder(alertType,message)
