@@ -7,6 +7,11 @@ En este proyecto podemos apreciar la pagina de la empresa donde inicialmente ten
 Este acceso de control lo activa desde la carpeta general del archivo con el nombre de "Index"
 ![image](https://github.com/user-attachments/assets/e67ce0a4-b4db-4e42-999b-39d91a5a8b64)
 
+Si las credenciales utilizadas son las correctas accederá de manera existosa el apartado de login
+Credenciales: email: "john@mail.com" password: "changeme"
+![image](https://github.com/user-attachments/assets/8a9102a9-a991-4c64-a42e-84ef01a5c4b2)
+
+
 Luego de este apartado tenemos el Nanvar o el Inicio que nos especifica desde el apartado "Inicio, Usuarios y Productos"
 Para acceder a este apartado desde nuestra carpera inicial será haciendo click en el archivo "Dashboar" de la carpeta admin 
 ![image](https://github.com/user-attachments/assets/ae2bca8e-9097-4d81-8930-d4118b36e5a5)
