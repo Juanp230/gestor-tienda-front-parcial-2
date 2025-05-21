@@ -18,3 +18,14 @@ Para acceder a este apartado desde nuestra carpera inicial será haciendo click 
 
 Estando en nuestro inicio podemos apartar la parte de Usuarios donde nos especificará Nombre, Apellido, Avatar o Foto de perfil y la acción que nos abre un apartado de una mini previw del "Usuario"
 ![image](https://github.com/user-attachments/assets/955fca9a-67da-4cbb-8ecb-81b5635af2fc)
+
+Este de aquí seria un ejemplo de la "Preview" que se obtiene con el botón "Ver" 
+![image](https://github.com/user-attachments/assets/5e6be89d-3b81-4cd0-9853-ebaeae1de7f4)
+
+En el apartado de "Productos" tenemos una lista descriptiva de 2 páginas de productos con la misma función del botón Ver
+![image](https://github.com/user-attachments/assets/9c09657a-8bf1-420c-b68a-ec76e4fb47f8)
+
+Aqui el ejemplo del botón ver, la diferencia con el de usuarios es que refleja el color del producto seleccionado inicialmente
+![image](https://github.com/user-attachments/assets/341b6921-900e-403b-9bb7-93a9a70e5455)
+
+
